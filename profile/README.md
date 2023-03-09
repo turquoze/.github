@@ -1,1 +1,1 @@
-`Turquoze` is a headless e-commerce project using (Deno, Supabase, Upstash)
+`Turquoze` is a headless e-commerce project using (Deno, Supabase, Upstash, Meilisearch)
